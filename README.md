@@ -12,4 +12,6 @@ Im just a noob web developer seeking to develop and expand my skillset to become
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincesanityyy&&show_icons=true)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincesanityyy&&show_icons=true )]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vincesanityyy&layout=compact )]()
+
