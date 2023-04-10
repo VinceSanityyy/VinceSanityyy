@@ -8,8 +8,6 @@ My Portfolio: https://vincesanityyy.github.io/vinceportfolio/
 
 [![GitHub](https://img.shields.io/badge/GitHub-vincesanityyy-black)](https://github.com/vincesanityyy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronaldvincentbustillo-blue)](https://www.linkedin.com/in/ronald-vincent-bustillo-24a535194/)
-[![Facebook](https://img.shields.io/badge/Facebook-vincentsanityyy-blue)](https://facebook.com/vincentsanityyy)
-[![Twitter](https://img.shields.io/badge/Twitter-vincentsanityyy-skyblue)](https://twitter.com/vincentsanityyy)
 
 ## GitHub Stats
 
