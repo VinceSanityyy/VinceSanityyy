@@ -15,4 +15,5 @@ My Portfolio: https://vincesanityyy.github.io/vinceportfolio/
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vincesanityyy&layout=compact )]()
 
 
-![Snake animation](https://github.com/VinceSanityyy/VinceSanityyy/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+<img src="https://raw.githubusercontent.com/PseudoDevs/PseudoDevs/output/snake.svg" alt="Snake animation" />
