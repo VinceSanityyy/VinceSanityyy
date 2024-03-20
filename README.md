@@ -16,4 +16,4 @@ My Portfolio: https://vincesanityyy.github.io/vinceportfolio/
 
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/PseudoDevs/PseudoDevs/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VinceSanityyy/VinceSanityyy/output/snake.svg" alt="Snake animation" />
